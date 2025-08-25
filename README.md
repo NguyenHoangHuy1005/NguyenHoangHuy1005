@@ -8,9 +8,6 @@ I'm Huy from the Earth 🌏
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 
-## 📊 GitHub Stats
-![Huy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenHoangHuy1005&show_icons=true&theme=radical)
-
 ## 📈 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHoangHuy1005&layout=compact)
 
